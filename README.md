@@ -32,7 +32,9 @@ Matplotlib
 Jupyter Notebook.
 
 💼 Author
+
 Priya Gupta
+
 Aspiring Data Analyst
 
 
