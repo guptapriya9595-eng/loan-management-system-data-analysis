@@ -1,5 +1,6 @@
 # loan-management-system-data-analysis
 Loan management system data analysis project focusing on loan approval trends, customer segmentation, and financial risk insights using Python.
+
 📌 Project Overview
 
 This project focuses on analyzing loan management system data to uncover patterns in loan approvals, customer segmentation, and financial risk assessment. The goal is to derive meaningful insights that help understand borrower behavior and key factors influencing loan decisions.
@@ -29,6 +30,7 @@ NumPy
 Matplotlib
 
 Jupyter Notebook.
+
 💼 Author
 Priya Gupta
 Aspiring Data Analyst
